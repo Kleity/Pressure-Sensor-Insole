@@ -8,8 +8,8 @@ inval.atten(ADC.ATTN_11DB) #Rango 3.3 V
 vec = []
 
 #Inicializar Datos WiFi
-ssid = 'INFINITUM5487_2.4'
-password = 'JWVKXdkL9A'
+ssid = 'REDXXXXX'
+password = 'XXXXXXX'
 
 api_key = 'db5zfJxvd4IQmjPpdNEbuy'
 
